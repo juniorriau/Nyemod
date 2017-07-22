@@ -1,11 +1,11 @@
 # Nyemod
 Nyemod is a Guard For Your Ads
 
-# Installation
+### Installation
   
 load `nyemod.js` or `nyemod.min.js` in your web page
 
-## Usage
+### Usage
 
 ```
 	<script>
@@ -16,6 +16,6 @@ load `nyemod.js` or `nyemod.min.js` in your web page
 	</script>
 ```
 
-## Contributors
+### Contributors
 
 [codenoid](https://github.com/codenoid) Rubi Jihantoro, Maintainer, Creator
