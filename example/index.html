@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Nyemod Example Usage</title>
+	<script src="../lib/nyemod.js"></script>
+	<style type="text/css" media="screen">
+		.myads {
+			width: 320px;
+			height: 200px;
+			border: 1px solid grey;
+
+			/*pointer-events:none;*/
+		}
+	</style>
+</head>
+<body>
+	<div class="nyemod myads">
+    <div id="yourads" onclick="alert('fa');">
+      dadad
+    </div>
+	</div>
+	<div class="nyemod myads">diajwiawf</div>
+	<div class="nyemod myads">di9juf</div>
+	<div class="nyemod myads">d9fajco1</div>
+	<script>
+		Nyemod.init({
+			click: 3, // max click, and will reloaded after interval
+			interval: 23000 // ms
+		});
+	</script>
+</body>
+</html>
