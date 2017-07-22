@@ -18,6 +18,12 @@ load `nyemod.js` or `nyemod.min.js` in your web page
 </script>
 ```
 
+### Feature
+- [x] Add reload interval
+- [x] Add max click
+- [ ] Custom Selector
+- [ ] Custom act (callback) when max click `true` and do act callback function
+
 ### Contributors
 
 [codenoid](https://github.com/codenoid) Rubi Jihantoro, Maintainer, Creator
